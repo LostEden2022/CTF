@@ -1,6 +1,6 @@
 # CTF
-<h1> Author: </h1>
-  <h2> I created this repository to document and share my CTF Journey on the following platforms: </h2>
+<h1> Author's Intent: </h1>
+  <h2> I created this repository to document and share my CTF Journey on the following platforms for educational and archival purposes only. </h2>
     <h3> TryHackMe </h3>
     <h3> OverTheWire </h3>
 
