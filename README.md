@@ -1,4 +1,4 @@
-<h2 style="text-align:center"> Author's Intent: </h2>
+<h2 style="text-align:center"; color: Red"> Author's Intent: </h2>
   <h2> I created this repository to document and share my CTF Journey on the following platforms for educational and archival purposes only. </h2>
     <h4> TryHackMe </h4>
     <h4> OverTheWire </h4>
