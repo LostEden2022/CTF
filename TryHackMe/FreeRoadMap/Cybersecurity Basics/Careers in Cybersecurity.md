@@ -1,6 +1,6 @@
 
 - Task 1: Introduction
-	- Read 
+	-- Read 
 - Task 2: Security Analyst
 	- Read 
 - Task 3: Security Engineer
