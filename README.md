@@ -1,8 +1,8 @@
 # CTF
 I created this repository to document and share my CTF Journey on the following platforms.
 
--TryHackMe
--OverTheWire
+- [TryHackMe]
+- [OverTheWire]
 
 Legal Disclaimer:
 This repository is for educational purposes only—period. It is designed to help you legally improve your cybersecurity and ethical hacking skills. If you’re thinking about using this material on any system you don’t own or lack explicit permission to test, stop right now.
