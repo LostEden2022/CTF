@@ -1,4 +1,4 @@
-- Task 1: Intrduction
+- Task 1: Introduction
 	- Read
 - Task 2: A Bit of Background on Linux
 	- Research: What year was the first release of a Linux operating system?
