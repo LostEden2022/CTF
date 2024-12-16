@@ -1,5 +1,5 @@
-<h3> Author's Intent: </h3>
-  <h2> I created this repository to document and share my CTF Journey on the following platforms for educational and archival purposes only. </h2>
+<h2> Author's Intent: </h2>
+  <h3> I created this repository to document and share my CTF Journey on the following platforms for educational and archival purposes only. </h3>
     <p> TryHackMe </p>
     <p> OverTheWire </p>
 
