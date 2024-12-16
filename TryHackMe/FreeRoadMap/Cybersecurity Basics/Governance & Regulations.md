@@ -1,0 +1,37 @@
+- Task 1: Introduction
+	- Read
+- Task 2: Why is it important?
+	- The term used for legal and regulatory frameworks that govern the use and protection of information assets is called?
+		- Regulation
+	- Health Insurance Portability and Accountability Act (HIPAA) targets which domain for data protection?
+		- Healthcare
+- Task 3 Information Security Fundamentals
+	- The step that involves periodic evaluation of policies and making changes as per stakeholder's input is called?
+		- Review and update
+	- A set of specific steps for undertaking a particular task or process is called?
+		- Procedure
+- Task 4: Governance Risk and Compliance (GRC)
+	- What is the component in the GRC framework involved in identifying, assessing, and prioritising risks to the organisation?
+		- Risk Management
+	- Is it important to monitor and measure the performance of a developed policy?  (yea/nay)
+		- yea
+- Task 5: Privacy and Data Protection
+	- What is the maximum fine for Tier 1 users as per GDPR (in terms of percentage)?
+		- 4
+	- In terms of PCI DSS, what does CHD stand for?
+		- cardholder data
+- Task 6: NIST Special Publication
+	- Per NIST 800-53, in which control category does the media protection lie?
+	- Per NIST 800-53, in which control category does the incident response lie?
+	- Which phase (name) of NIST 800-53 compliance best practices results in correlating identified assets and permissions?
+		- Map
+- Task 7: Information Security Management and Compliance
+	- Which ISO/IEC 27001 component involves selecting and implementing controls to reduce the identified risks to an acceptable level?
+		- Risk treatment
+	- In SOC 2 generic controls, which control shows that the system remains available?
+		- Availability
+- Task 8: Conclusion
+	- What is the flag after completing the exercise
+		- THM{SECURE_1001}
+
+___
