@@ -1,0 +1,41 @@
+- Task 1: Introduction to Python
+	- Join the room
+- Task 2: Hello World
+	- On the code editor, print "Hello World". What is the flag?
+		- THM{PRINT_STATEMENTS}
+- Task 3: Mathematical Operators
+	- In the code editor, print the result of 21 + 43. What is the flag?
+		- THM{ADDITI0N}
+	- Print the result of 142 - 52. What is the flag?
+		- THM{SUBTRCT}
+	- Print the result of 10 * 342. What is the flag?
+		- THM{MULTIPLICATION_PYTHON}
+	- Print the result of 5 squared. What is the flag?
+		-  THM{EXP0N3NT_POWER}
+- Task 4: Variables and Data Types
+	- In the code editor, create a variable called height and set its initial value to 200.
+		- no answer needed
+	- On a new line, add 50 to the height variable.
+		- no answer needed
+	- On another new line, print out the value of height. What is the flag that appears?
+		- THM{VARIABL3S}
+- Task 5: Logical and Boolean Operators
+	- Read section
+- Task 6: Introduction to If Statements (Shipping Project)
+	- In the code editor, click on the "shipping.py" tab and follow the instructions to complete this task.
+		- No answer needed
+	- Once you've written the application in the code editor's shipping.py tab, a flag will appear, which is the answer to this question.
+		- THM{IF_STATEMENT_SHOPPING}
+	- In shipping.py, change the customer_basket_cost variable to **101** and re-run your code. You will get a flag (if the total cost is correct based on your code); the flag is the answer to this question.
+		- THM{MY_FIRST_APP}
+- Task 7: Loops
+	- On the code editor, click back on the "script.py" tab and code a loop that outputs every number from 0 to 50.
+		- THM{L00PS_WHILE_FOR}
+- Task 8: Introduction to Functions
+	- Once you've written the bitcoinToUSD function, use it to calculate the value of your Bitcoin in USD, and then create an if statement to determine if the value falls below $30,000; if it does, output a message to alert you (via a print statement).
+	- THM{BITC0IN_INVESTOR}
+- Task 9: Files
+	- In the code editor, write Python code to read the flag.txt file. What is the flag in this file?
+		- THM{F1LE_R3AD}
+- Task 10: Imports
+	- Execute task on code editor
