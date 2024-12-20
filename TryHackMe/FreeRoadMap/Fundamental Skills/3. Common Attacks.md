@@ -1,0 +1,43 @@
+- Task 1: Introduction
+	- Let's get started!
+		- No answer needed
+- Task 2: Social Engineering
+	- Read the task information and watch the attached videos
+		- No answer needed
+	- What was the original target of Stuxnet?
+		- The Iran Nuclear Programme
+- Task 3: Social Engineering: Phishing
+	- Click the green "View Site" button at the top of this task if you haven't already done so.
+		- No answer needed
+	- What is the flag?
+		- THM{I_CAUGHT_ALL_THE_PHISH}
+- Task 4: Malware and Ransomware
+	- What currency did the Wannacry attackers request payment in?
+		- Bitcoin
+- Task 5: Passwords and Authentication
+	- Click the green button at the start of the task to deploy the interactive hash brute-forcer!
+		- No answer needed
+	- Copy the list of passwords into the "Password List" field of the hash cracker, then click "Go"!
+		- No answer needed
+	- What is the password?
+		- TryHackMe123!
+	- In the next task we will look at some of the common account protection measures, as well as how to generate secure passwords.
+		- No answer needed
+- Task 6: Multi-Factor Authentication and Password Manager
+	- Where you have the option, which should you use as a second authentication factor between SMS based TOTPs or Authenticator App based TOTPs (SMS or App)?
+		- App
+- Task 7: Public Network Safety
+	- Deploy the interactive content by clicking the green button at the top of the task.
+		- No answer needed
+	- The interactive content for this task demonstrates what can happen if information is sent over a potentially unsafe network with various types of encryption (or lack thereof). There is no flag for this task, but you are encouraged to try each of the different scenarios, mixing and matching the options provided in the control box at the bottom right of the screen.
+		- No answer needed
+- Task 8: Backups
+	- What is the minimum number of up-to-date backups you should make?
+		- 3
+	- Of these, how many (at minimum) should be stored in another location?
+		- 1
+- Task 9: Updates and Patches
+	- (Optional) Complete the [Blue](https://tryhackme.com/room/blue) room on TryHackMe to see the brutal effects of the Eternal Blue exploit in action against an unpatched machine for yourself!
+		- No answer needed
+- Task 10: Conclusion
+	- 
